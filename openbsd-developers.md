@@ -1,0 +1,34 @@
+## OpenBSD Developers
+
+- https://github.com/fcambus
+- https://github.com/mbelop
+- https://github.com/omoerbeek
+- jcs@ https://github.com/jcs
+- djm@ https://github.com/djmdjm
+- bluhm@ https://github.com/bluhm
+- https://github.com/pirofti
+- https://github.com/kristapsdz
+- https://github.com/semarie
+- https://github.com/jasperla
+- https://github.com/ajacoutot
+- https://github.com/bob-beck
+- https://github.com/afresh1
+- https://github.com/yasuoka
+- https://github.com/reyk
+- https://github.com/shadchin
+- https://github.com/vext01
+- https://github.com/tedu
+- https://github.com/grayed
+- https://github.com/nicm
+- https://github.com/mfriedl
+- https://github.com/hallexander
+- https://github.com/ratchov
+- https://github.com/ischwarze
+- https://github.com/qbit
+- https://github.com/cjeker
+- https://github.com/rnagy
+- https://github.com/millert
+- https://github.com/poolpOrg
+- https://github.com/busterb
+- https://github.com/marcespie
+- https://github.com/bsdkurt

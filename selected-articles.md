@@ -1,0 +1,27 @@
+## Selected articles
+
+* [Keeping Your OpenBSD System In Trim: A Works For Me Guide](https://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
+* [OpenBSD Workstation Guide](https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html)
+* [OpenBSD on a Laptop](https://www.c0ffee.net/blog/openbsd-on-a-laptop/)
+* [Installing OpenBSD on your laptop is really hard (not)](http://www.k58.uk/openbsd.html)
+* [OpenBSD: why and how](https://sivers.org/openbsd)
+* [Configuring SNMP v3 on OpenBSD 6.4](https://thefreecountry.wordpress.com/2018/11/27/configuring-snmp-v3-on-openbsd-6-4/)
+* [An OpenBSD Workstation](https://eradman.com/posts/openbsd-workstation.html)
+* [Enlightenment on OpenBSD](https://enform.haxlab.org/)
+* [An awesome OpenBSD 6.1 desktop](https://github.com/WyldePointer/openbsd-desktop) (XFCE)
+* [OpenBSD Gaming Resource](https://mrsatterly.com/openbsd_games.html)
+* [Screencasting with OpenBSD](https://eradman.com/posts/screencasting.html)
+* [OpenBSD's Autoinstall](https://eradman.com/posts/autoinstall-openbsd.html)
+* [Fail2ban on OpenBSD 6.0](https://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
+* [Getting OpenBSD running on Raspberry Pi 3](https://undeadly.org/cgi?action=article&sid=20170409123528)
+* [A simple first server](https://blog.hermes-technology.de/openbsd/server/2017/06/06/a-first-server.html) - A series of posts about OpenBSD server configuration for learning purposes
+* [OpenBSD manpages reading list](https://gist.github.com/QWxleA/0a3e28f4a3387e5087e8f3608c32fd03)
+* [OpenBSD porting workshop, August 11, 2018](https://www.twitch.tv/videos/296003844) - twitch.tv video by bcallah@
+* [Debian on OpenBSD vmd (without qemu or another debian system)](https://www.netzbasis.de/openbsd/vmd-debian/)
+* [Nextcloud with OpenBSD](https://docs.nextcloud.com/server/latest/admin_manual/installation/example_openbsd.html)
+* [Dendrite (Matrix server) with OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
+* [Backups with Bupstash on OpenBSD](https://x61.sh/log/2022/01/20220117T191751-backups.html)
+* [Wireguard on OpenBSD](https://x61.sh/log/2022/01/20220104T122904-wireguard.html)
+* [GoT on OpenBSD](https://x61.sh/log/2022/01/20220127T190458-got.html)
+* [K3s cluster over vmm on OpenBSD](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
+* [Rspamd dashboard with Relayd](https://x61.sh/log/2022/10/20221027T115439-rspamd-dashboard.html)
