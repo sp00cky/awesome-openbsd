@@ -16,3 +16,4 @@
 * [ohmyksh](https://github.com/qbit/ohmyksh) - A framework for OpenBSD's ksh
 * [openbsd.run](https://openbsd.run/) - An OpenBSD-focused Ansible playbook embedded in type-annotated Python
 * [ksh-got-prompt](https://github.com/bfmartin/ksh-got-prompt) - Show the Status of a GOT Repository in a KSH Prompt
+* [OpenBSD Deep Install Tutorial pt. 1/4](https://www.youtube.com/watch?v=DQrXvjV9lyQ)
