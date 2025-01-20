@@ -1,0 +1,3 @@
+[submodule "markdown-cheatsheet"]
+	path = markdown-cheatsheet
+	url = https://github.com/sp00cky/markdown-cheatsheet.git
