@@ -20,7 +20,7 @@
 * [Portable OpenBSD Components](./portable-openbsd-components.md#portable-openbsd-components)
 * [OpenBSD Developers](./openbsd-developers.md#openbsd-developers)
 
-* [GIT](./git.md)
+* [GIT](./git/git.md)
 
 ----
 Please [donate](https://www.openbsd.org/donations.html) to the OpenBSD project.
